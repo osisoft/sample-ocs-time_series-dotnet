@@ -52,19 +52,19 @@ The SDS Service is secured by obtaining tokens from Azure Active Directory. Such
 
 This sample is also provided in Try .NET. Currently using this in Try .NET is available only by self-hosting it.
 
-To get to the try .MD file that walk over the sample click here:
+To get to the Try .MD file that walks over the sample click here:
 
-- [Sample](Sample.md)
+- [Sample](SdsTsDotNet/SAMPLE.md)
 
-To learn more about try .NET and to learn how to install and use it please see [try .NET](https://github.com/dotnet/try). Included below are the abbreviated steps to do this.
+To learn more about Try .NET and to learn how to install and use it please see [Try .NET](https://github.com/dotnet/try). Included below are the abbreviated steps to do this.
 
 1. from anywhere `dotnet tool install --global dotnet-try --version 1.0.19264.11`
 2. from this directory run `dotnet try`
 
-Note: you do not have to use this sample in try .NET. It will work like any other dotnet application.
+Note: you do not have to use this sample in Try .NET. It will work like any other dotnet application.
 
 ---
 
-For the general steps or switch languages see the Task [ReadMe](../../../)  
-For the main OCS page [ReadMe](https://github.com/osisoft/OSI-Samples-OCS)  
-For the main samples page on master [ReadMe](https://github.com/osisoft/OSI-Samples)
+For the main OCS time series samples page on master [ReadMe](https://github.com/osisoft/OSI-Samples-OCS/blob/master/docs/SDS_TIME_SERIES_README.md)  
+For the main OCS samples page on master [ReadMe](https://github.com/osisoft/OSI-Samples-OCS)  
+For the main OSIsoft samples page on master [ReadMe](https://github.com/osisoft/OSI-Samples)
