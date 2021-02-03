@@ -1,6 +1,6 @@
 # Building a DotNet client to make REST API calls to the SDS Service
 
-**Version:** 1.1.7
+**Version:** 1.1.8
 
 [![Build Status](https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/OCS/osisoft.sample-ocs-time_series-dotnet?repoName=osisoft%2Fsample-ocs-time_series-dotnet&branchName=master)](https://dev.azure.com/osieng/engineering/_build/latest?definitionId=2623&repoName=osisoft%2Fsample-ocs-time_series-dotnet&branchName=master)
 
@@ -10,7 +10,7 @@ When working in .NET, it is recommended that you use the OCS Client Libraries me
 
 [SDS documentation](https://ocs-docs.osisoft.com/Content_Portal/Documentation/SequentialDataStore/Data_Store_and_SDS.html)
 
-Developed against DotNet 2.2.300.
+Developed against DotNet 5.0.
 
 ## Getting Started
 
