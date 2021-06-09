@@ -1,8 +1,8 @@
 # Building a DotNet client to make REST API calls to the SDS Service
 
-**Version:** 1.1.9
+**Version:** 1.1.12
 
-[![Build Status](https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/OCS/osisoft.sample-ocs-time_series-dotnet?repoName=osisoft%2Fsample-ocs-time_series-dotnet&branchName=master)](https://dev.azure.com/osieng/engineering/_build/latest?definitionId=2623&repoName=osisoft%2Fsample-ocs-time_series-dotnet&branchName=master)
+[![Build Status](https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/OCS/osisoft.sample-ocs-time_series-dotnet?repoName=osisoft%2Fsample-ocs-time_series-dotnet&branchName=main)](https://dev.azure.com/osieng/engineering/_build/latest?definitionId=2623&repoName=osisoft%2Fsample-ocs-time_series-dotnet&branchName=main)
 
 The sample code in this topic demonstrates how to invoke the OCS client library. By examining the code, you will see how to create an SdsType and SdsStream, and how to create, read, update, and delete values in SDS. You will also see the summaries value call, and how to do bulk streams calls.
 
@@ -65,6 +65,6 @@ Note: you do not have to use this sample in Try .NET. It will work like any othe
 
 ---
 
-For the main OCS time series samples page on master [ReadMe](https://github.com/osisoft/OSI-Samples-OCS/blob/master/docs/SDS_TIME_SERIES_README.md)  
-For the main OCS samples page on master [ReadMe](https://github.com/osisoft/OSI-Samples-OCS)  
-For the main OSIsoft samples page on master [ReadMe](https://github.com/osisoft/OSI-Samples)
+For the main OCS time series samples page [ReadMe](https://github.com/osisoft/OSI-Samples-OCS/blob/main/docs/SDS_TIME_SERIES_README.md)  
+For the main OCS samples page [ReadMe](https://github.com/osisoft/OSI-Samples-OCS)  
+For the main OSIsoft samples page [ReadMe](https://github.com/osisoft/OSI-Samples)
